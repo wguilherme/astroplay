@@ -1,4 +1,4 @@
-# Nome Astroplay 😎
+# Astroplay 😎
 
 ## Descrição 📝
 
