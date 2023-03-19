@@ -1,4 +1,4 @@
-# Nome do Projeto 😎
+# Nome Astroplay 😎
 
 ## Descrição 📝
 
